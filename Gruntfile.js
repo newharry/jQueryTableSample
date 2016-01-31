@@ -1,6 +1,7 @@
 // Shield UI Lite Gruntfile
 module.exports = function(grunt) {
 
+//What is this
 grunt.initConfig({
 	pkg: (function() {
         var config = grunt.file.readJSON('package.json');
